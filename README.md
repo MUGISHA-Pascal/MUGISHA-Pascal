@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUGISHA Pascal</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate technology expert</h3>
 
 - 📫 How to reach me **mugishapascal2008@gmail.com**
 
