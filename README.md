@@ -1,4 +1,4 @@
-- 📫 How to reach me **www.linkedin.com/in/mugisha-pascal**
-- 💻 connect me via terminal **npx mugishapascal**
+📫 How to reach me <b>www.linkedin.com/in/mugisha-pascal</b>
+💻 connect me via terminal <b>npx mugishapascal</b>
 
 
